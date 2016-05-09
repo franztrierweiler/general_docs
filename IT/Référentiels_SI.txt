@@ -5,3 +5,6 @@ http://www.solucom.net/wp-content/uploads/2009/09/Solucom_Synthese_34_Referentie
 Propre à ITIL:
 
 http://blog.sebbrochet.com/2009/11/20/Mettre-en-place-ITIL-dans-une-PME_par-ou-commencer/
+http://www.itilfrance.com/pages/docs/hgelun/itilv3_introduction.pnt.incdf
+http://www.itilfrance.com/index.php?pc=pages/docs/pdf_index_pratique.inc&pt=Documents%20de%20mise%20en%20pratique%20d%27ITIL%AE&pe=haut_entete_telechargement.inc
+
