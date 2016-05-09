@@ -1,1 +1,7 @@
+Général:
+
 http://www.solucom.net/wp-content/uploads/2009/09/Solucom_Synthese_34_Referentiels-SI.pdf
+
+Propre à ITIL:
+
+http://blog.sebbrochet.com/2009/11/20/Mettre-en-place-ITIL-dans-une-PME_par-ou-commencer/
