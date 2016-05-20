@@ -11,3 +11,4 @@ http://www.itilfrance.com/index.php?pc=pages/docs/pdf_index_pratique.inc&pt=Docu
 Propre à CMMI:
 
 http://www.piloter.org/gouvernance/CMMI_gouvernance_SI.htm
+https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&ved=0ahUKEwj-g8-cwOjMAhWMBBoKHY9aCbkQFghEMAU&url=http%3A%2F%2Fwww.axcion.eu%2Fdocuments%2FCMMI-C.Foulon-PMI-La_Performance_de_projets.ppt&usg=AFQjCNG-sYlbdjm-NCpi6rPBjhU1hfi1GA&cad=rja
