@@ -1,0 +1,11 @@
+* Si utilisé localement:
+
+npm install toto
+
+installe toto dans ./node_modules
+
+* Si utilisé avec le flag --global
+
+npm install toto --global
+
+install toto dans /usr/local/lib/node_modules/
